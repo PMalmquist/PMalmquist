@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PMalmquist
-- 👀 I’m interested in making Pensions understandable in Sweden and EU.
-- 🌱 I’m currently learning Python 3
+- 👀 I’m interested in making banks great again!
+- 🌱 I’m currently learning Python 3, AI, Banking, Fintechs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
